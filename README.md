@@ -2,7 +2,7 @@
 
 This extension covers absolutely all components of Bootstrap 4 with several examples per component, it will allow you to code faster and rather focus on your code. 
 
-![Demo](https://github.com/oufly/Bootstrap4code/blob/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/oufly/Bootstrap4code/master/demo.gif)
 
 [Source code](https://github.com/oufly/Bootstrap4code) | [Snippets list](https://github.com/oufly/Bootstrap4code/blob/master/SnippetsDocs.md) | [Report bug or suggestion](https://github.com/oufly/Bootstrap4code/issues) 
 
@@ -118,9 +118,8 @@ This extension covers absolutely all components of Bootstrap 4 with several exam
 <tr id="b-tooltip"><td rowspan="1"><a href="https://getbootstrap.com/docs/4.4/components/tooltips/">Tooltip</a></td><td nowrap align="center"><code>b-tooltip</code></td><td><i>bootstrap custom tooltip.</i></td></tr>
 </table>
 
+
 ## License
 
-
-This Visual Studio Code extension is open-source software licensed under the [MIT license](http://opensource.org/licenses/MIT).
------------------------------------------------------------------------------------------------------------
+Bootstrap4code - Visual studio code plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
