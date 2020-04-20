@@ -2,7 +2,7 @@
 
 This extension covers absolutely all components of Bootstrap 4 with several examples per component, it will allow you to code faster and rather focus on your code. 
 
-![Demo](https://github.com/oufly/Bootstrap4code/blob/master/Demo.gif)
+![Demo](https://github.com/oufly/Bootstrap4code/blob/master/demo.gif)
 
 [Source code](https://github.com/oufly/Bootstrap4code) | [Snippets list](https://github.com/oufly/Bootstrap4code/blob/master/SnippetsDocs.md) | [Report bug or suggestion](https://github.com/oufly/Bootstrap4code/issues) 
 
@@ -119,6 +119,7 @@ This extension covers absolutely all components of Bootstrap 4 with several exam
 </table>
 
 ## License
+
 
 This Visual Studio Code extension is open-source software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 -----------------------------------------------------------------------------------------------------------
