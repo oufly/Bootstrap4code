@@ -7,6 +7,12 @@
     "categories": [
         "Snippets"
     ],
+    "keywords": [
+        "snippets",
+        "bootstrap",
+        "bootstrap4",
+        "components"
+    ],
     "icon": "logo.png",
     "license": "See License section in README.md",
     "homepage": "https://github.com/oufly/Bootstrap4code/blob/master/README.md",
@@ -18,7 +24,7 @@
         "vscode": "^0.10.1"
     },
     "galleryBanner": {
-        "color": "#E6E0EA",
+        "color": "#FFF48B",
         "theme": "light"
     },
     "contributes": {
