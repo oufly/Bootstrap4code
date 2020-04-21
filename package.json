@@ -2,7 +2,7 @@
     "name": "bootstrap4code",
     "displayName": "Bootstrap 4 Ultimate Snippets Pack",
     "description": "Ultimate snippets pack of twitter Bootstrap 4 components for Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "ouali-amar",
     "categories": [
         "Snippets"
